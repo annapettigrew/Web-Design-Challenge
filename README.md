@@ -23,3 +23,7 @@ A "Data" page that displays a responsive table containing the data used in the v
 
 I used the weather data I collected for the WeatherPy section of your Python-APIs challenge.
 I also used CSS Elements to draft the styling
+
+
+
+<img width="1440" alt="Screen Shot 2022-06-14 at 10 41 35 PM" src="https://user-images.githubusercontent.com/97136642/173725343-20d50b65-1b9a-4eb0-b17d-7a5d29df9c89.png">
